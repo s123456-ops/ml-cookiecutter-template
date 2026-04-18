@@ -93,7 +93,7 @@ This separation ensures maintainability and extensibility.
 
 ## 🔁 Example project generated from this template:
 
-👉 https://github.com/your-username/ml-translation-pipeline
+👉 https://github.com/s123456-ops/ml-translation-pipeline.git
 
 ---
 
